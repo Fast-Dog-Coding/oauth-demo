@@ -4,7 +4,7 @@ An node/express app that uses Google to authenticate a user in this app. Created
 ## Does Not Work As-Is
 This application will not work as-is.
 
-You will need to create you own `.env` file, based on te `.env.sample` provided.
+You will need to create your own `.env` file, based on the `.env.sample` provided.
 
 Before that, you will need to set up Google Authentication for your app and set up a MongoDb.
 
